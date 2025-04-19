@@ -1,1 +1,1 @@
-# VPT-Deep-Fine-TuningViTforImageClassification-
+# VPT-DeepFine-TuningViTforImageClassification
